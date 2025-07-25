@@ -32,7 +32,7 @@ Practice mock interviews
 
 Build confidence
 
-⚙️ Seamless User Experience
+⚙️ Seamless User Experience 
 Built with a clean React UI, the platform provides:
 
 Responsive design
